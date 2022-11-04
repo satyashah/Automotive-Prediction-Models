@@ -1,5 +1,5 @@
 # Automative-Prediction-Models
-Various Models (eep Neural Networks, Support Vector Machines, Random Forests, K-nearest Neighbor, Multiple Model Ensemble) build using tensorflow
+Various Models (Deep Neural Networks, Support Vector Machines, Random Forests, K-nearest Neighbor, Multiple Model Ensemble) built using tensorflow for automotive value prediction
 
 Built in Colab
 
